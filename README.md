@@ -1,6 +1,6 @@
 ## Ciao! I'm Huguette 👋
 
-✨ Web Developer, UX Designer & Digital Humanist. ✨
+✨ Jr. Web Developer, UX Designer & Digital Humanist. ✨
 Bachelor of Arts (BA) in Classics
 
 ### 🏛️ My Digital Scriptorium
@@ -13,7 +13,7 @@ Bachelor of Arts (BA) in Classics
 
 - 💬 Ask me about: La conexión entre la literatura clásica y el código, Ovidio y las leyes universales, o cómo aplicar el pensamiento crítico a tu redacción y darle un toque de diseño a tus ideas.
 
-- ⚡ Fun fact: Escribo código con la misma minuciosidad con la que un copista medieval iluminaba un manuscrito. Soy apasionada del patinaje sobre hielo y el ballet desde niña; cuando veo una rutina de patinaje, mi mente de diseñadora traduce cada movimiento en figuras de CSS puro.
+- ⚡ Fun fact: Escribo código con la misma minuciosidad con la que un copista medieval iluminaba un manuscrito. Desde niña me apasiona el patinaje sobre hielo y el ballet; cuando veo una rutina de patinaje, mi mente de diseñadora traduce cada movimiento en figuras de CSS.
 
 ## 🛠️ Tools and Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
