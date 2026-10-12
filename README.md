@@ -28,33 +28,39 @@ Bachelor of Arts (BA) in Classics
 ## 📬 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/huguettea134711a3)
 [![Correo](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:huguetteAlejandra@outlook.com)
-[![URL](https://img.shields.io/badge/https%3A%2F%2Fhuguette-portfolio.vercel.app%2F)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-black?style=flat&logo=vercel)](https://huguette-portfolio.vercel.app/)
 
 ## ✍️ Writings
 [![Substack](https://img.shields.io/badge/Humanidades%20Digitales-FF6719?logo=substack&logoColor=white&style=for-the-badge)](https://substack.com/@humanistadeveloper?utm_campaign=profile&utm_medium=profile-page)
 
 
 ## 🌐 Human Languages
-<!-- Inglés B2 -->
-![Inglés](https://shields.io████████░░_80%25-00247D?style=for-the-badge)
-<!-- Latín B2 -->
-![Latín](https://shields.io████████░░_80%25-990000?style=for-the-badge)
-<!-- Italiano B1 (Más avanzado) -->
-![Italiano](https://shields.io██████░░░░_60%25-009246?style=for-the-badge)
-<!-- Francés B1 -->
-![Francés](https://shields.io█████░░░░░_50%25-0055A5?style=for-the-badge)
-<!-- Chino A2 -->
-![Chino](https://shields.io████░░░░░░_40%25-DE2910?style=for-the-badge)
-<!-- Japonés A2 -->
-![Japonés](https://shields.io████░░░░░░_40%25-BC002D?style=for-the-badge)
-<!-- Griego Antiguo A2 -->
-![Griego Antiguo](https://shields.io████░░░░░░_40%25-0D5EAF?style=for-the-badge)
+<!-- Inglés -->
+![Inglés](https://img.shields.io/badge/Ingl%C3%A9s-B2%20Alto-2ea44f?style=flat-square)
+
+<!-- Latín -->
+![Latín](https://img.shields.io/badge/Lat%C3%ADn-B2%20B%C3%A1sico-238636?style=flat-square)
+
+<!-- Italiano -->
+![Italiano](https://img.shields.io/badge/Italiano-B1%20Alto-0969da?style=flat-square)
+
+<!-- Francés -->
+![Francés](https://img.shields.io/badge/Franc%C3%A9s-B1%20B%C3%A1sico-1f6feb?style=flat-square)
+
+<!-- Chino -->
+![Chino](https://img.shields.io/badge/Chino-A2%20Avanzado-d97706?style=flat-square)
+
+<!-- Japonés -->
+![Japonés](https://img.shields.io/badge/Japon%C3%A9s-A2%20B%C3%A1sico-ea580c?style=flat-square)
+
+<!-- Griego Antiguo -->
+![Griego Antiguo](https://img.shields.io/badge/Griego%20Antiguo-A1-dc2626?style=flat-square)
 
 ## 🎨 Interests
 ![Patinaje sobre hielo](https://img.shields.io/badge/Patinaje%20sobre%20hielo-00BFFF?style=for-the-badge)
 ![Ballet](https://img.shields.io/badge/Ballet-FF69B4?style=for-the-badge)
 ![Literatura](https://img.shields.io/badge/Literatura-8B0000?style=for-the-badge)
-![Anime](https://img.shields.io/badge/anime?style=flat&logoColor=%2300d2fc)
+![Anime](https://img.shields.io/badge/Anime-00d2fc?style=flat)
 ![CSS Art](https://img.shields.io/badge/CSS%20Art-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Humanidades Digitales](https://img.shields.io/badge/Humanidades%20Digitales-6A5ACD?style=for-the-badge)
 ![Lenguajes de Programación](https://img.shields.io/badge/Lenguajes%20de%20Programación-000000?style=for-the-badge)
