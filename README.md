@@ -28,7 +28,7 @@ Bachelor of Arts (BA) in Classics
 ## 📬 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/huguettea134711a3)
 [![Correo](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:huguetteAlejandra@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Live_Demo-Visitar-0070f3?logo=vercel&logoColor=#296073&tyle=fot-the-badge)](https://huguette-portfolio.vercel.app/)
+[![Huguette Portfolio](https://img.shields.io/badge/Huguette-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://huguette-portfolio.vercel.app/)
 
 ## ✍️ Writings
 [![Substack](https://img.shields.io/badge/Humanidades%20Digitales-FF6719?logo=substack&logoColor=white&style=for-the-badge)](https://substack.com/@humanistadeveloper?utm_campaign=profile&utm_medium=profile-page)
@@ -60,7 +60,7 @@ Bachelor of Arts (BA) in Classics
 ![Patinaje sobre hielo](https://img.shields.io/badge/Patinaje%20sobre%20hielo-00BFFF?style=for-the-badge)
 ![Ballet](https://img.shields.io/badge/Ballet-FF69B4?style=for-the-badge)
 ![Literatura](https://img.shields.io/badge/Literatura-8B0000?style=for-the-badge)
-![Anime](https://img.shields.io/badge/Anime-00d2fc?style=flat)
+![Anime](https://img.shields.io/badge/Anime-00d2fc?style=for-the-badge)
 ![CSS Art](https://img.shields.io/badge/CSS%20Art-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Humanidades Digitales](https://img.shields.io/badge/Humanidades%20Digitales-6A5ACD?style=for-the-badge)
 ![Lenguajes de Programación](https://img.shields.io/badge/Lenguajes%20de%20Programación-000000?style=for-the-badge)
