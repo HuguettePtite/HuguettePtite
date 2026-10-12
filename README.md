@@ -28,7 +28,7 @@ Bachelor of Arts (BA) in Classics
 ## 📬 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/huguettea134711a3)
 [![Correo](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:huguetteAlejandra@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-black?style=flat&logo=vercel)](https://huguette-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Live_Demo-Visitar-0070f3?logo=vercel&logoColor=#296073&tyle=fot-the-badge)](https://huguette-portfolio.vercel.app/)
 
 ## ✍️ Writings
 [![Substack](https://img.shields.io/badge/Humanidades%20Digitales-FF6719?logo=substack&logoColor=white&style=for-the-badge)](https://substack.com/@humanistadeveloper?utm_campaign=profile&utm_medium=profile-page)
