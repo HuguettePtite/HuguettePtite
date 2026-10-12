@@ -28,21 +28,28 @@ Bachelor of Arts (BA) in Classics
 ## 📬 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/huguettea134711a3)
 [![Correo](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:huguetteAlejandra@outlook.com)
+[![URL](https://img.shields.io/badge/https%3A%2F%2Fhuguette-portfolio.vercel.app%2F)
 
 ## ✍️ Writings
 [![Substack](https://img.shields.io/badge/Humanidades%20Digitales-FF6719?logo=substack&logoColor=white&style=for-the-badge)](https://substack.com/@humanistadeveloper?utm_campaign=profile&utm_medium=profile-page)
 
 
 ## 🌐 Human Languages
-![Inglés](https://img.shields.io/badge/English-0077B5?style=for-the-badge)
-![Francés](https://img.shields.io/badge/Français-0055A4?style=for-the-badge)
-![Italiano](https://img.shields.io/badge/Italiano-009246?style=for-the-badge)
-![Latín](https://img.shields.io/badge/Latín-FFD700?style=for-the-badge)
+| Idioma | Nivel | Barra de Progreso |
+| :--- | :--- | :--- |
+| **Inglés** | Intermedio Alto (B2) | ![Inglés](https://shields.io) |
+| **Latín** | Intermedio Alto (B2) | ![Latín](https://shields.io) |
+| **Italiano** | Intermedio (B1+) | ![Italiano](https://shields.io) |
+| **Francés** | Intermedio (B1) | ![Francés](https://shields.io) |
+| **Chino** | Principiante (A2) | ![Chino](https://shields.io) |
+| **Japonés** | Principiante (A2) | ![Japonés](https://shields.io) |
+| **Griego Antiguo** | Principiante (A2) | ![Griego Antiguo](https://shields.io) |
 
 ## 🎨 Interests
 ![Patinaje sobre hielo](https://img.shields.io/badge/Patinaje%20sobre%20hielo-00BFFF?style=for-the-badge)
 ![Ballet](https://img.shields.io/badge/Ballet-FF69B4?style=for-the-badge)
 ![Literatura](https://img.shields.io/badge/Literatura-8B0000?style=for-the-badge)
+![Anime](https://img.shields.io/badge/Anime-8B0000?style=for-the-badge)
 ![CSS Art](https://img.shields.io/badge/CSS%20Art-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Humanidades Digitales](https://img.shields.io/badge/Humanidades%20Digitales-6A5ACD?style=for-the-badge)
 ![Lenguajes de Programación](https://img.shields.io/badge/Lenguajes%20de%20Programación-000000?style=for-the-badge)
