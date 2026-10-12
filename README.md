@@ -35,21 +35,26 @@ Bachelor of Arts (BA) in Classics
 
 
 ## 🌐 Human Languages
-| Idioma | Nivel | Barra de Progreso |
-| :--- | :--- | :--- |
-| **Inglés** | Intermedio Alto (B2) | ![Inglés](https://shields.io) |
-| **Latín** | Intermedio Alto (B2) | ![Latín](https://shields.io) |
-| **Italiano** | Intermedio (B1+) | ![Italiano](https://shields.io) |
-| **Francés** | Intermedio (B1) | ![Francés](https://shields.io) |
-| **Chino** | Principiante (A2) | ![Chino](https://shields.io) |
-| **Japonés** | Principiante (A2) | ![Japonés](https://shields.io) |
-| **Griego Antiguo** | Principiante (A2) | ![Griego Antiguo](https://shields.io) |
+<!-- Inglés B2 -->
+![Inglés](https://shields.io████████░░_80%25-00247D?style=for-the-badge)
+<!-- Latín B2 -->
+![Latín](https://shields.io████████░░_80%25-990000?style=for-the-badge)
+<!-- Italiano B1 (Más avanzado) -->
+![Italiano](https://shields.io██████░░░░_60%25-009246?style=for-the-badge)
+<!-- Francés B1 -->
+![Francés](https://shields.io█████░░░░░_50%25-0055A5?style=for-the-badge)
+<!-- Chino A2 -->
+![Chino](https://shields.io████░░░░░░_40%25-DE2910?style=for-the-badge)
+<!-- Japonés A2 -->
+![Japonés](https://shields.io████░░░░░░_40%25-BC002D?style=for-the-badge)
+<!-- Griego Antiguo A2 -->
+![Griego Antiguo](https://shields.io████░░░░░░_40%25-0D5EAF?style=for-the-badge)
 
 ## 🎨 Interests
 ![Patinaje sobre hielo](https://img.shields.io/badge/Patinaje%20sobre%20hielo-00BFFF?style=for-the-badge)
 ![Ballet](https://img.shields.io/badge/Ballet-FF69B4?style=for-the-badge)
 ![Literatura](https://img.shields.io/badge/Literatura-8B0000?style=for-the-badge)
-![Anime](https://img.shields.io/badge/Anime-8B0000?style=for-the-badge)
+![Anime](https://img.shields.io/badge/anime?style=flat&logoColor=%2300d2fc)
 ![CSS Art](https://img.shields.io/badge/CSS%20Art-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Humanidades Digitales](https://img.shields.io/badge/Humanidades%20Digitales-6A5ACD?style=for-the-badge)
 ![Lenguajes de Programación](https://img.shields.io/badge/Lenguajes%20de%20Programación-000000?style=for-the-badge)
